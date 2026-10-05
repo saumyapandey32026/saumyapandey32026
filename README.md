@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello! I am Saumya Pandey.
 
-<!--
-**saumyapandey32026/saumyapandey32026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Sophomore at IITM** – BS Degree in Data Science and Applications.
+- 🚀 **Tech Learner** – Passionate about exploring new technologies and building skills.
+- 📚 **Teaching is my Passion** – Love sharing knowledge and helping others learn.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I am currently a **Sophomore at IIT Madras**, pursuing the BS Degree in Data Science and Applications. As an enthusiastic **tech learner**, I enjoy exploring coding. 
+
+**Teaching is my ultimate passion**—I believe that the best way to master a concept is by explaining it to others. This GitHub profile serves as my learning portfolio where I document my coursework, programming assignments, and tech journey.
+
+---
+
+## 🎓 Academic Journey
+
+| Program | Status |
+| :--- | :--- |
+| IIT Madras BS Degree in Data Science | Diploma Level |
+
+---
+
+## 🌐 Social Platforms
+
+- 💼 **LinkedIn:** [Saumya Pandey](https://linkedin.com)
+- 🎥 **YouTube:** [Catalytic Dhairya](https://www.youtube.com/@CatalyticDhairyaCya)
+
