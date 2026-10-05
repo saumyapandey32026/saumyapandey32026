@@ -22,6 +22,22 @@ I am currently a **Sophomore at IIT Madras**, pursuing the BS Degree in Data Sci
 
 ---
 
+## 💻 Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| ** Programming** | Python, HTML, CSS, Java(Basics) |
+| ** Tools** | Git, GitHub, VS Code, Google Colab |
+
+---
+
+## 📚 Currently Learning
+
+- Programming, Data Structures and Algorithms (PDSA)
+- Database Management Systems (DBMS)
+- Modern Application Development (MAD 1)
+
+
 ## 🌐 Social Platforms
 
 - 💼 **LinkedIn:** [Saumya Pandey](https://linkedin.com)
