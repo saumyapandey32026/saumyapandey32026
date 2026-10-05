@@ -26,8 +26,8 @@ I am currently a **Sophomore at IIT Madras**, pursuing the BS Degree in Data Sci
 
 | Category | Skills |
 | :--- | :--- |
-| ** Programming** | Python, HTML, CSS, Java(Basics) |
-| ** Tools** | Git, GitHub, VS Code, Google Colab |
+| Programming | Python, HTML, CSS, Java(Basics) |
+| Tools | Git, GitHub, VS Code, Google Colab |
 
 ---
 
